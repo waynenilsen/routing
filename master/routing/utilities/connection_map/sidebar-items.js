@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["Identifiable","validates that the type can be validated with a public id"]]});
